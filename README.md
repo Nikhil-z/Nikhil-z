@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate mobile application developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-z" alt="nikhil-z" /></a> </p>
-
-- 🌱 I’m currently learning **Jipack compose**
+- 🌱 I’m currently learning **Jitpack compose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nikhilcgopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilcgopi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3038899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3038899" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,8 +18,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-z&" alt="nikhil-z" /></p>
 
-
-<!---
-Nikhil-z/Nikhil-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
