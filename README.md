@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello wolrd:
 I'm currently working on OTT platforms <br>I'm interested in working with IoT projects<br>I'm currently mastering Jitpack compose 
 
 
