@@ -1,4 +1,4 @@
-### 💫 Hello world println("Nikhil-z")
+### 💫 Hello world println("Nikhil-z") [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilcgopi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3038899) 
 I'm currently working on OTT platforms <br>I'm interested in working with IoT projects<br>I'm currently mastering Jitpack compose 
 
 
