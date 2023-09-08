@@ -1,4 +1,4 @@
-### Shaping the future of entertainment, connectivity, and user experience
+### An Android enthusiast, shaping the future of entertainment, connectivity, and user experience
 
 Greetings, world! I'm Nikhil, and I find myself deeply entrenched in the ever-evolving landscape of technology and innovation. At present, I'm engrossed in the realm of OTT (Over-The-Top) platforms, firmly believing that I'm playing a pivotal role in the digital streaming revolution, reshaping the way we consume content.
 
