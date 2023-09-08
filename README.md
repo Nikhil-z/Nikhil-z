@@ -25,7 +25,8 @@ Greetings, world! I'm Nikhil, and I find myself deeply entrenched in the ever-ev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Coding is always fun
-<img src='https://troll-me.herokuapp.com/'  width="480px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikhil-z&icon=0&color=0)](https://visitcount.itsvg.in)
